@@ -1,2 +1,3 @@
-message = app two dev
-server.port=9867
+message: app two dev
+server:
+	port: 9867
